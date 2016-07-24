@@ -199,6 +199,8 @@
 				TargetAttributes = {
 					CECFC6431CBB0A7E009D6650 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 4R9FZTBJDJ;
+						DevelopmentTeamName = "Ian Kosen (Personal Team)";
 					};
 					CECFC6571CBB0A7F009D6650 = {
 						CreatedOnToolsVersion = 7.3;
